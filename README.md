@@ -86,7 +86,7 @@ A continuación se presentan evidencias del desarrollo y flujo de trabajo:
     git tag v1.0.0
     git push origin v1.0.0
     
-- Capturas del proceso (agregar aquí):
+- Capturas del proceso:
  Creación de ramas feature
  Merge hacia develop
  Creación de release/v1.0.0
