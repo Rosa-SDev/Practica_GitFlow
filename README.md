@@ -49,4 +49,5 @@ Juegos disponibles
 
 
 ## Evidencias
-
+ - Enlaces: ???
+ - Capturas: ???
